@@ -1,10 +1,10 @@
 ### Hi there, I'm Muhammad Ali Kazmi - aka [kazmiali](https://kazmiali.github.io) 👋
 
-## I'm a Full Stack Developer!
+## I'm a Full Stack JavaScript Developer!
 
-- 🔭 I’m currently working as a Freelancer!
-- 🌱 I’m currently learning TypeScript 🤣
-- 👯 I’m looking for a remote position as a full stack dev!
+- 👨‍💻 I’m currently working as a Freelancer!
+- 📖 I’m currently learning TypeScript
+- 🔭 I’m looking for a remote position as a full stack dev!
 - 🥅 2020 Goals: Contribute more to Open Source projects and make some videos to guide others.
 - ⚡ Fun fact: I love to play video games
 
