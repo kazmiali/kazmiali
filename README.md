@@ -12,13 +12,15 @@
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Muhammad Ali Kazmi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Muhammad Ali Kazmi | Stackoverflow" width="22px" src="https://logodix.com/logo/379478.png" />][stackoverflow]
+
+<!-- [<img align="left" alt="Muhammad Ali Kazmi | Stackoverflow" width="22px" src="https://logodix.com/logo/379478.png" />][stackoverflow] -->
+
 [<img align="left" alt="Muhammad Ali Kazmi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Muhammad Ali Kazmi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <!-- [<img align="left" alt="Muhammad Ali Kazmi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
-[<img align="left" alt="Muhammad Ali Kazmi | Medium" width="22px" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" />][medium]
+<!-- [<img align="left" alt="Muhammad Ali Kazmi | Medium" width="22px" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" />][medium] -->
 <br />
 
 ### Languages and Tools:
