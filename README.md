@@ -10,12 +10,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="kazmiali.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://kazmiali.github.io]
-[<img align="left" alt="kazmiali | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="kazmiali | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kazmiali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kazmiali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Muhammad Ali Kazmi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Muhammad Ali Kazmi | Stackoverflow" width="22px" src="https://logodix.com/logo/379478.png" />][stackoverflow]
+[<img align="left" alt="Muhammad Ali Kazmi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Muhammad Ali Kazmi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<!-- [<img align="left" alt="Muhammad Ali Kazmi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+
+[<img align="left" alt="Muhammad Ali Kazmi | Medium" width="22px" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" />][medium]
 <br />
 
 ### Languages and Tools:
@@ -41,3 +44,10 @@
 <br />
 
 ---
+
+[website]: https://kazmiali.github.io/
+[twitter]: https://twitter.com/ali_smak09
+[youtube]: https://www.youtube.com/channel/UCRDcKYOq4KEZGXXw6qbgxng
+[linkedin]: https://https://www.linkedin.com/in/muhammad-alikazmi/
+
+<!-- [instagram]: https://instagram.com/codeSTACKr -->
