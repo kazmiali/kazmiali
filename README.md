@@ -4,7 +4,7 @@
 
 - 👨‍💻 I’m currently working as a Software Engineer at [Fusion Software Development.](https://www.fusionsd.com.au/)!
 - 📖 I’m currently learning TypeScript
-- 🥅 2020 Goals: Contribute more to Open Source projects and make some videos to guide others.
+- 🥅 2021 Goals: Contribute more to Open Source projects and make some videos to guide others.
 - ⚡ Fun fact: I love to play video games
 
 ### Connect with me:
