@@ -1,4 +1,4 @@
-### Hi there, I'm Muhammad Ali Kazmi - aka [kazmiali](https://kazmiali.github.io) 👋
+### Hi there, I'm Muhammad Ali Kazmi - aka [alikazmi](https://alikazmi.dev) 👋
 
 ## I'm a Full Stack JavaScript Developer!
 
