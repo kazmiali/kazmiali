@@ -1,3 +1,5 @@
+[![Intro Image]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://firebasestorage.googleapis.com/v0/b/alikazmi-7cfeb.appspot.com/o/forGithubAlpha.jpg?alt=media&token=834651b5-c64c-4282-b7e1-d6366eb31347))](https://www.linkedin.com/in/alikazmidev/)
+
 ### Hi there, I'm Muhammad Ali Kazmi - aka [alikazmi](https://alikazmi.dev) 👋
 
 ## I'm a Full Stack JavaScript Developer!
