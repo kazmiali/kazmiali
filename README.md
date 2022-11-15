@@ -48,9 +48,9 @@
 
 ---
 
-[website]: https://kazmiali.github.io/
+[website]: https://alikazmi.dev/
 [twitter]: https://twitter.com/ali_smak09
 [youtube]: https://www.youtube.com/channel/UCRDcKYOq4KEZGXXw6qbgxng
-[linkedin]: https://https://www.linkedin.com/in/muhammad-alikazmi/
+[linkedin]: https://www.linkedin.com/in/alikazmidev/
 
 <!-- [instagram]: https://instagram.com/codeSTACKr -->
