@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammad Ali Kazmi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammad Ali Kazmi - aka [alikazmi](https://alikazmi.dev) </h1>
 
 [![AltText](https://firebasestorage.googleapis.com/v0/b/alikazmi-7cfeb.appspot.com/o/forGithubAlpha.jpg?alt=media&token=834651b5-c64c-4282-b7e1-d6366eb31347)](https://www.linkedin.com/in/alikazmidev/)
 
