@@ -35,7 +35,7 @@
 
 <br />
 
-## Connect with me:
+### Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/alikazmidev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ali_smak09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
