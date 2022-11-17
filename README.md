@@ -35,13 +35,6 @@
 
 <br />
 
-
-[website]: https://alikazmi.dev/
-[twitter]: https://twitter.com/ali_smak09
-[youtube]: https://www.youtube.com/channel/UCRDcKYOq4KEZGXXw6qbgxng
-[linkedin]: https://www.linkedin.com/in/alikazmidev/
-
-<!-- [instagram]: https://instagram.com/codeSTACKr -->
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/alikazmidev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
