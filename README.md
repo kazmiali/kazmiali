@@ -32,8 +32,9 @@
 <img align="left" alt="Google_Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img align="left" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
+
 <br />
----
+
 
 [website]: https://alikazmi.dev/
 [twitter]: https://twitter.com/ali_smak09
