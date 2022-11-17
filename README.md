@@ -2,8 +2,9 @@
 
 [![Introduction Image](https://firebasestorage.googleapis.com/v0/b/alikazmi-7cfeb.appspot.com/o/forGithubAlpha.jpg?alt=media&token=834651b5-c64c-4282-b7e1-d6366eb31347)](https://www.linkedin.com/in/alikazmidev/)
 
-## I'm a Full Stack JavaScript Developer!
+### 🙋‍♂️ About Me
 
+- 🏢 I am a Full Stack Developer with 4 years of experience
 - 👨‍💻 I’m currently working as a Freelance Software Developer.
 - 👨‍💻 Previously worked at [Fusion Software Development.](https://www.fusionsd.com.au/) as a Software Developer.
 - 🥅 2023 Goals: Contribute more to Open Source projects and make some videos/blogs to guide others.
