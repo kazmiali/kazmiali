@@ -4,9 +4,9 @@
 
 ## I'm a Full Stack JavaScript Developer!
 
-- 👨‍💻 I’m currently working as a Freelance Software Developer at [Fusion Software Development.](https://www.fusionsd.com.au/)
+- 👨‍💻 I’m currently working as a Freelance Software Developer.
 - 👨‍💻 Previously worked at [Fusion Software Development.](https://www.fusionsd.com.au/) as a Software Developer.
-- 🥅 2022 Goals: Contribute more to Open Source projects and make some videos/blogs to guide others.
+- 🥅 2023 Goals: Contribute more to Open Source projects and make some videos/blogs to guide others.
   <br />
 
 ### Languages and Tools:
