@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammad Ali Kazmi - aka <a href="https://alikazmi.dev">alikazmi</a> </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammad Ali Kazmi - aka <a href="https://www.developerkazmi.com">alikazmi</a> </h1>
 
 [![Introduction Image](https://firebasestorage.googleapis.com/v0/b/alikazmi-7cfeb.appspot.com/o/forGithubAlpha.jpg?alt=media&token=834651b5-c64c-4282-b7e1-d6366eb31347)](https://www.linkedin.com/in/alikazmidev/)
 
@@ -7,7 +7,7 @@
 - 🏢 I am a Full Stack Developer with 4 years of experience
 - 👨‍💻 I’m currently working as a Freelance Software Developer.
 - 👔 Previously worked at [Fusion Software Development](https://www.fusionsd.com.au/) as a Software Developer.
-- 📄 Find my Resume/CV [here.](https://alikazmi.dev/assets/Resume_2022_AliKazmi.pdf/)
+- 📄 Find my Resume/CV [here.](https://www.developerkazmi.com/assets/Resume_2022_AliKazmi.pdf/)
 - 🌐 Here is my [Portfolio.](https://www.developerkazmi.com/)
 - 🥅 2023 Goals: Contribute more to Open Source projects and make some videos/blogs to guide others.
   <br />
