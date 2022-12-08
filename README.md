@@ -8,7 +8,7 @@
 - 👨‍💻 I’m currently working as a Freelance Software Developer.
 - 👔 Previously worked at [Fusion Software Development](https://www.fusionsd.com.au/) as a Software Developer.
 - 📄 Find my Resume/CV [here.](https://alikazmi.dev/assets/Resume_2022_AliKazmi.pdf/)
-- 🌐 Here is my [Portfolio.](https://alikazmi.dev/)
+- 🌐 Here is my [Portfolio.](https://www.developerkazmi.com/)
 - 🥅 2023 Goals: Contribute more to Open Source projects and make some videos/blogs to guide others.
   <br />
 
