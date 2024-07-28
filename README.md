@@ -7,9 +7,9 @@
 - 🏢 I am a Full Stack Developer with 4 years of experience
 - 👨‍💻 I’m currently working as a Software Developer at GenieSoft.
 - 👔 Previously worked at [Fusion Software Development](https://www.fusionsd.com.au/) as a Software Developer and worked as a freelance web developer.
-- 📄 Find my Resume/CV [here.](https://www.developerkazmi.com/assets/Resume_2022_AliKazmi.pdf)
+- 📄 Find my Resume/CV [here.](https://www.developerkazmi.com/assets/Resume_2024_AliKazmi.pdf)
 - 🌐 Here is my [Portfolio.](https://www.developerkazmi.com/)
-- 🥅 2023 Goals: Contribute more to Open Source projects and make some videos/blogs to guide others.
+- 🥅 2025 Goals: Contribute more to Open Source projects and make some videos/blogs to guide others.
   <br />
 
 ### Languages and Tools:
@@ -47,6 +47,6 @@
 <a href = "https://twitter.com/ali_smak09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/alikazmi.dev/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/ali.smak09/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-<a href = "https://www.alikazmi.dev"><img src="https://img.icons8.com/color/48/internet.png"/></a>
+<a href = "https://www.developerkazmi.com"><img src="https://img.icons8.com/color/48/internet.png"/></a>
 </p>
 
