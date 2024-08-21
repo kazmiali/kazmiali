@@ -5,8 +5,7 @@
 ### 🙋‍♂️ About Me
 
 - 🏢 I am a Full Stack Developer with 4 years of experience
-- 👨‍💻 I’m currently working as a Software Developer at [GenieSoft](https://www.linkedin.com/company/geniesoft/).
-- 👔 Previously worked at [Fusion Software Development](https://www.fusionsd.com.au/) as a Software Developer and worked as a freelance web developer.
+- 👨‍💻 Previously worked at [Fusion Software Development](https://www.fusionsd.com.au/) and [GenieSoft](https://www.linkedin.com/company/geniesoft/) as a Full Stack Developer and also worked as a freelance web developer.
 - 📄 Find my Resume/CV [here.](https://www.developerkazmi.com/assets/Resume_2024_AliKazmi.pdf)
 - 🌐 Here is my [Portfolio.](https://www.developerkazmi.com/)
 - 🥅 2025 Goals: Contribute more to Open Source projects and make some videos/blogs to guide others.
