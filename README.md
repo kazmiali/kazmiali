@@ -6,7 +6,7 @@
 
 - 🏢 I am a Full Stack Developer with 4 years of experience
 - 👨‍💻 Previously worked at [Fusion Software Development](https://www.fusionsd.com.au/) and [GenieSoft](https://www.linkedin.com/company/geniesoft/) as a Full Stack Developer and also worked as a freelance web developer.
-- 📄 Find my Resume/CV [here.](https://www.developerkazmi.com/assets/Resume_2024_AliKazmi.pdf)
+- 📄 Find my Resume/CV [here.](https://developerkazmi.web.app/assets/Resume_AliKazmi_FullStack.pdf)
 - 🌐 Here is my [Portfolio.](https://www.developerkazmi.com/)
 - 🥅 2025 Goals: Contribute more to Open Source projects and make some videos/blogs to guide others.
   <br />
