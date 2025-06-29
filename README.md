@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammad Ali Kazmi - aka <a href="https://www.developerkazmi.com">alikazmi</a> </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammad Ali Kazmi - aka <a href="https://developerkazmi.web.app">alikazmi</a> </h1>
 
 [![Introduction Image](https://firebasestorage.googleapis.com/v0/b/alikazmi-7cfeb.appspot.com/o/forGithubAlpha.jpg?alt=media&token=834651b5-c64c-4282-b7e1-d6366eb31347)](https://www.linkedin.com/in/alikazmidev/)
 
@@ -7,7 +7,7 @@
 - 🏢 I am a Full Stack Developer with 4 years of experience
 - 👨‍💻 Previously worked at [Fusion Software Development](https://www.fusionsd.com.au/) and [GenieSoft](https://www.linkedin.com/company/geniesoft/) as a Full Stack Developer and also worked as a freelance web developer.
 - 📄 Find my Resume/CV [here.](https://developerkazmi.web.app/assets/Resume_AliKazmi_FullStack.pdf)
-- 🌐 Here is my [Portfolio.](https://www.developerkazmi.com/)
+- 🌐 Here is my [Portfolio.](https://developerkazmi.web.app/)
 - 🥅 2025 Goals: Contribute more to Open Source projects and make some videos/blogs to guide others.
   <br />
 
@@ -46,6 +46,6 @@
 <a href = "https://twitter.com/ali_smak09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/alikazmi.dev/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/ali.smak09/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-<a href = "https://www.developerkazmi.com"><img src="https://img.icons8.com/color/48/internet.png"/></a>
+<a href = "https://developerkazmi.web.app"><img src="https://img.icons8.com/color/48/internet.png"/></a>
 </p>
 
