@@ -4,7 +4,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🏢 I am a Full Stack Developer with 4 years of experience
+- 🏢 I am a Full Stack Developer with 5 years of experience
 - 🚀 Currently working at:  
   [Eprecisio Technologies LLC]([https://example.com](https://www.eprecisio.com/)) – *Full Stack Engineer (Feb 2025 – Present)*  
   [SoftSyncDev]([https://example.com](https://softsyncdev.com/)) – *Technical Lead - MERN Stack (Feb 2025 – Present, Part-time)* 
