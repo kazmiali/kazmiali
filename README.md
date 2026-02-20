@@ -7,7 +7,6 @@
 - 🏢 I am a Full Stack Developer with 5 years of experience
 - 🚀 Currently working at:  
   [Eprecisio Technologies LLC](https://www.eprecisio.com/) – *Full Stack Engineer (Feb 2025 – Present)*  
-  [SoftSyncDev](https://softsyncdev.com/) – *Technical Lead - MERN Stack (Feb 2025 – Present, Part-time)* 
 - 👨‍💻 Previously worked at [Fusion Software Development](https://www.fusionsd.com.au/) and [GenieSoft](https://www.linkedin.com/company/geniesoft/) as a Full Stack Developer and also worked as a freelance web developer.
 - 📄 Find my Resume/CV [here.](https://www.alikazmi.dev/assets/Resume_AliKazmi_FullStack.pdf)
 - 🌐 Here is my [Portfolio.](https://www.alikazmi.dev/)
