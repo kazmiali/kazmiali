@@ -10,7 +10,7 @@
 - 👨‍💻 Previously worked at [Fusion Software Development](https://www.fusionsd.com.au/) and [GenieSoft](https://www.linkedin.com/company/geniesoft/) as a Full Stack Developer and also worked as a freelance web developer.
 - 📄 Find my Resume/CV [here.](https://www.alikazmi.dev/Resume_AliKazmi_FullStack.pdf)
 - 🌐 Here is my [Portfolio.](https://www.alikazmi.dev/)
-- 🥅 2025 Goals: Contribute more to Open Source projects and make some videos/blogs to guide others.
+- 🥅 2026 Goals: Contribute more to Open Source projects and make some videos/blogs to guide others.
   <br />
 
 ### Languages and Tools:
